@@ -1,6 +1,6 @@
 ## Gabriel Medina da Assunção - Estudante de Ciência de dados
 
-Sou autodidata e busco constantemente aprimorar meus conhecimentos em tecnologia. Tenho habilidade em desenvolver soluções de problemas e me adaptar facilmente a novos cenários. Sou comunicativo e colaborativo, buscando contribuir para o sucesso da equipe e da empresa.
+Como um autodidata, estou sempre em busca de aprimorar meus conhecimentos em tecnologia. Tenho um bom domínio de Python, C# e Excel, o que me ajuda a criar soluções eficientes para problemas complicados. Sou conhecido por trabalhar bem em equipe e pelo meu excelente atendimento ao cliente. Minha capacidade de adaptação me ajuda a lidar com mudanças, e minha organização e gestão de tempo garantem que eu sempre entregue resultados de alta qualidade no prazo. Resumindo, sou um profissional comunicativo e colaborativo, sempre pronto para ajudar a equipe e a empresa a terem sucesso.
  
 <div> 
   <a href="https://gabs4841.github.io/" target="_blank" rel=“noopener noreferrer”><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
